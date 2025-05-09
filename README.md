@@ -28,7 +28,7 @@ All IP addresses in the format `192.168.0.x` were internal to our network and ha
 
 ## Log Files Overview
 
-The archive contains logs from multiple honeypots and configurations, organized as follows:
+The archive contains _RAW_ logs from multiple honeypots and configurations, organized as follows:
 
 ### Qeeqbox Honeypot Logs
 These are the logs for the low-interaction honeypots:
